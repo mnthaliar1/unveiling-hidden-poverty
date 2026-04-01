@@ -277,10 +277,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Ramírez]
-  first_name: [María Nathalia, Nathalia]
-  last_name: [Nimeh]
-  first_name: [Zina]
+  last_name: [Ramírez, Nimeh]
+  first_name: [María Nathalia, Nathalia, Zina]
 
   style: apa
   locale: en
