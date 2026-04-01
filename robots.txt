@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+Sitemap: https://mnthaliar1.github.io/unveiling-hidden-poverty/sitemap.xml
