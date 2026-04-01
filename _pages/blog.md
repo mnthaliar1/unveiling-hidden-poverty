@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: blog
 permalink: /blog/
-title: blog
+title: Notes from the field / Notas de campo
+description: Reflections on hidden poverty research in Colombian cities.
 nav: true
-nav_order: 1
+nav_order: 6
 pagination:
   enabled: true
   collection: posts

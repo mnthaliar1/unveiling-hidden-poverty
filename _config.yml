@@ -11,8 +11,8 @@ contact_note: >
 description: >
   A participatory research project mapping hidden poverty in Colombian cities — where households live in precarity that official systems fail to recognize.
 footer_text: >
-  Unveiling Hidden Poverty · Research Project 2025–2026 · Centro de Estudios Manuel Ramírez & Maastricht University
-keywords: hidden poverty, pobreza oculta, Bogotá, urban poverty, participatory research, Colombia
+  Unveiling Hidden Poverty · 2025–2026 · Centro de Estudios Manuel Ramírez & Maastricht University
+keywords: hidden poverty, pobreza oculta, Bogotá, urban poverty, participatory research, Colombia, Sisbén, ILSIS
 lang: en
 icon: 🗺️
 
@@ -89,8 +89,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Unveiling Hidden Poverty
-blog_description: Notes from the field — reflections on hidden poverty research in Colombian cities
+blog_name: Notes from the field / Notas de campo
+blog_description: Reflections on hidden poverty research in Colombian cities
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -118,25 +118,11 @@ giscus:
   emit_metadata: 0
   lang: en
 
-# Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-    categories: [external-posts]
-    tags: [medium]
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
-    categories: [external-posts]
-    tags: [google]
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -197,7 +183,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -277,8 +262,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Ramírez, Nimeh]
-  first_name: [María Nathalia, Nathalia, Zina]
+  last_name: [Ramírez, Nimeh, Gassman, Franco]
+  first_name: [María Nathalia, Nathalia, Zina, Franziska, Andrea]
 
   style: apa
   locale: en
