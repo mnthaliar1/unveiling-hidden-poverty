@@ -2,21 +2,19 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Unveiling Hidden Poverty
 first_name: Unveiling Hidden Poverty
 middle_name:
-last_name: Name
+last_name:
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  You can reach the research team via email or through our institutional affiliations.
+description: >
+  A participatory research project mapping hidden poverty in Colombian cities — where households live in precarity that official systems fail to recognize.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+  Unveiling Hidden Poverty · Research Project 2025–2026 · Centro de Estudios Manuel Ramírez & Maastricht University
+keywords: hidden poverty, pobreza oculta, Bogotá, urban poverty, participatory research, Colombia
+lang: en
+icon: 🗺️
 
 url: https://mnthaliar1.github.io # the base hostname & protocol for your site
 baseurl: /unveiling-hidden-poverty # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -91,8 +89,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Unveiling Hidden Poverty
+blog_description: Notes from the field — reflections on hidden poverty research in Colombian cities
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -279,8 +277,10 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Ramírez]
+  first_name: [María Nathalia, Nathalia]
+  last_name: [Nimeh]
+  first_name: [Zina]
 
   style: apa
   locale: en
